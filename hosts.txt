@@ -1,0 +1,8 @@
+# Test
+||idrydigital.com^$important
+127.0.0.1 markahost.com.tr/.xyz^
+.tk^
+.gq^
+.ga^
+.cf^
+.ml^
